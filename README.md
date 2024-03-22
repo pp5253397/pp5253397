@@ -9,8 +9,6 @@
 
 ###
 
-<br clear="both">
-
 <img align="right" height="134" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif"  />
 
 ###
@@ -69,8 +67,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/pp5253397/pp5253397/output/snake.svg" alt="Snake animation" />
 
