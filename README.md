@@ -9,7 +9,9 @@
 
 ###
 
-<img align="right" height="150" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif"  />
+<br clear="both">
+
+<img align="right" height="134" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif"  />
 
 ###
 
